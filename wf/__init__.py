@@ -5,9 +5,9 @@ Predict viral taxonomy
 import subprocess
 from pathlib import Path
 
-from latch.types import LatchFile, LatchDir
 from latch import large_gpu_task, workflow
 from collections import defaultdict
+from latch.types import LatchFile
 from datetime import datetime
 from enum import Enum
 from Bio import SeqIO
