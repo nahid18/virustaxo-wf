@@ -6,14 +6,16 @@ VirusTaxo
 For taxonomic classification of viruses from metagenomic sequences, we developed VirusTaxo using diverse (e.g., 402 DNA and 280 RNA) genera of viruses. VirusTaxo has an average accuracy of 93% at genus level prediction in DNA and RNA viruses. VirusTaxo outperformed existing taxonomic classifiers of viruses where it assigned taxonomy of a larger fraction of metagenomic contigs compared to other methods. Benchmarking of VirusTaxo on a collection of SARS-CoV-2 sequencing libraries and metavirome datasets suggests that VirusTaxo can characterize virus taxonomy from highly diverse contigs and provide a reliable decision on the taxonomy of viruses.
 
 
-## Quick
+## Quickstart
+### Add VirustTaxo in LatchBio
 1. Log into https://latch.bio.
 2. Find **VirusTaxo** within **Explore** tab or, click [here](https://console.latch.bio/explore/63561/info).
 3. Add VirusTaxo to your workspace (There's a button for it)
 4. Go to **Workflows** tab and click on VirusTaxo.
-5. Provide input `fasta` file. You can upload `fasta` file containing viral (single or multiple) sequences. Or, you can use test input data containing 1,553 SARS-CoV-2 genome sequences provided by us. [Download from here](https://mega.nz/file/JhAC0BRA#P1wQoYjj5mVscI-l8ADN_H723a_q2Jp4ISKpxPtGPwY).
-6. Select Genome Type as **RNA**. If you do not know what the genome type is, select **Unknown** option. In case of DNA viruses, select **DNA**.
-7. Launch the workflow.
+### Provide Input and Run
+1. Provide input `fasta` file. You can upload `fasta` file containing viral (single or multiple) sequences. Or, you can use test input data containing 1,553 SARS-CoV-2 genome sequences provided by us. [Download from here](https://mega.nz/file/JhAC0BRA#P1wQoYjj5mVscI-l8ADN_H723a_q2Jp4ISKpxPtGPwY).
+2. Select Genome Type as **RNA**. If you do not know what the genome type is, select **Unknown** option. In case of DNA viruses, select **DNA**.
+3. Launch the workflow.
 
 
 ## Input Options
