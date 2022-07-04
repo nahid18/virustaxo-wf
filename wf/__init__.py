@@ -123,7 +123,7 @@ def virustaxo(
 
     ## Quickstart
     1. Download test input `fasta` file from [here](https://mega.nz/file/JhAC0BRA#P1wQoYjj5mVscI-l8ADN_H723a_q2Jp4ISKpxPtGPwY) containing 1,553 SARS-CoV-2 (RNA Virus) sequences.
-    2. Create an input directory on [dashboard](https://console.latch.bio/data) and upload to `data` folder
+    2. Create an input directory on [dashboard](https://console.latch.bio/data) and upload the `fasta` file.
     3. Add `VirusTaxo` to workspace from [explore](https://console.latch.bio/explore)
     4. Go to [workflows](https://console.latch.bio/workflows) and open `VirusTaxo` tool
     5. Select the input `fasta` file and select the genome type as `RNA`
