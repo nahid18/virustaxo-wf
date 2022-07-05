@@ -24,12 +24,15 @@ For taxonomic classification of viruses from metagenomic sequences, we developed
 - `Input Fasta File`: Provide concatenated viral sequences in a single fasta file.
 - `Virus Genome Type`: For DNA viruses, set this to `DNA`. For RNA viruses, set this to `RNA`. If the fasta file contains both DNA and RNA viral sequences, then selecting `Unknown` genome type will predict the taxonomy of both DNA and RNA viruses.
 
+## FAQ
+**Q:** Can I use `fastq` files?
+**A:** No, you cannot. But you can assemble the `fastq` reads using [Megahit](https://github.com/voutcn/megahit). Then use the Megahit contigs (in `fasta` format) in VirusTaxo.
 
 ## How to cite
 - Paper: https://doi.org/10.1016/j.ygeno.2022.110414
 
 
 ## Links:
-- Contact: https://omics-lab.com/virustaxo
-- Source Code: https://github.com/omics-lab/VirusTaxo
+- Website: https://omics-lab.com/virustaxo
+- Paper Code: https://github.com/omics-lab/VirusTaxo
 - Workflow Source Code: https://github.com/nahid18/virustaxo-wf
