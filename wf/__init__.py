@@ -129,7 +129,8 @@ def virustaxo(
     4. Go to **Workflows** tab and click on VirusTaxo.
     ### Provide Input and Run
     1. Provide input `fasta` file. You can upload `fasta` file containing viral (single or multiple) sequences. Or, you can use test input data containing 1,553 SARS-CoV-2 genome sequences provided by us. [Download from here](https://mega.nz/file/JhAC0BRA#P1wQoYjj5mVscI-l8ADN_H723a_q2Jp4ISKpxPtGPwY).
-    2. Select Genome Type as **RNA**. If you do not know what the genome type is, select **Unknown** option. In case of DNA viruses, select **DNA**.
+    2. Select Genome Type as **RNA** since SARS-CoV-2 is an RNA virus. 
+    *Note: If you do not know what the genome type is, select **Unknown** option. In case of DNA viruses, select **DNA**.*
     3. Launch the workflow.
 
     ## Input Options
