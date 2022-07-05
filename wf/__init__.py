@@ -134,9 +134,7 @@ def virustaxo(
 
     ## Input Options
     - `Input Fasta File`: Provide concatenated viral sequences in a single fasta file.
-    - `Virus Genome Type`: For DNA viruses, set this to `DNA`. For RNA viruses, set this to `RNA`. If `fasta_file` contains both DNA and RNA viral sequences, then selecting `Unknown` genome type will predict the taxonomy of both DNA and RNA viruses.
-
-
+    - `Virus Genome Type`: For DNA viruses, set this to `DNA`. For RNA viruses, set this to `RNA`. If `fasta_file` contains both DNA and RNA viral sequences, then selecting `Unknown` genome type will predict the taxonomy of both DNA and RNA viruses
     ## How to cite
     - Paper: https://doi.org/10.1016/j.ygeno.2022.110414
 
