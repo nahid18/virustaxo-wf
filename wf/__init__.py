@@ -122,7 +122,7 @@ def virustaxo(
     For taxonomic classification of viruses from metagenomic sequences, we developed VirusTaxo using diverse (e.g., 402 DNA and 280 RNA) genera of viruses. VirusTaxo has an average accuracy of 93% at genus level prediction in DNA and RNA viruses. VirusTaxo outperformed existing taxonomic classifiers of viruses where it assigned taxonomy of a larger fraction of metagenomic contigs compared to other methods. Benchmarking of VirusTaxo on a collection of SARS-CoV-2 sequencing libraries and metavirome datasets suggests that VirusTaxo can characterize virus taxonomy from highly diverse contigs and provide a reliable decision on the taxonomy of viruses.
 
     ## Quickstart
-    ### Add VirustTaxo in LatchBio
+    ### Add VirusTaxo in LatchBio
     1. Log into https://latch.bio.
     2. Find **VirusTaxo** within **Explore** tab or, click [here](https://console.latch.bio/explore/63563/info).
     3. Add VirusTaxo to your workspace (There's a button for it)
