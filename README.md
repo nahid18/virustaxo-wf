@@ -34,6 +34,7 @@ For taxonomic classification of viruses from metagenomic sequences, we developed
 
 
 ## Links:
+- VirusTaxo Tool: https://console.latch.bio/explore/63563/info
 - Website: https://omics-lab.com/virustaxo
 - Paper Code: https://github.com/omics-lab/VirusTaxo
 - Workflow Source Code: https://github.com/nahid18/virustaxo-wf
