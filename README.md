@@ -9,7 +9,7 @@ For taxonomic classification of viruses from metagenomic sequences, we developed
 ## Quickstart
 ### Add VirusTaxo in LatchBio
 1. Log into https://latch.bio.
-2. Find **VirusTaxo** within **Explore** tab or, click [here](https://console.latch.bio/explore/63563/info).
+2. Find **VirusTaxo** within **Explore** tab or, click [here](https://console.latch.bio/explore/63583/info).
 3. Add VirusTaxo to your workspace (There's a button for it)
 4. Go to **Workflows** tab and click on VirusTaxo.
 ### Provide Input and Run
@@ -30,7 +30,7 @@ For taxonomic classification of viruses from metagenomic sequences, we developed
 
 
 ## Links:
-- VirusTaxo Tool: https://console.latch.bio/explore/63563/info
+- VirusTaxo Tool: https://console.latch.bio/explore/63583/info
 - Website: https://omics-lab.com/virustaxo
 - Paper Code: https://github.com/omics-lab/VirusTaxo
 - Workflow Source Code: https://github.com/nahid18/virustaxo-wf
